@@ -1,0 +1,23 @@
+{
+  "name": "tailwind-zettelwiki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhilker1/hugo-tailwind-zettelwiki.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhilker1/hugo-tailwind-zettelwiki/issues"
+  },
+  "homepage": "https://github.com/jhilker1/hugo-tailwind-zettelwiki#readme",
+  "dependencies": {
+    "tailwindcss": "^3.1.6"
+  }
+}
